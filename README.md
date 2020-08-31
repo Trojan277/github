@@ -27,7 +27,7 @@ Bir repository birden fazla kullanıcı arasında paylaşılabilir ve kopyalanab
 
 Kelime anlamı: dal, şube, ayırmak.
 
-Projeye yeni bir özellik eklenmek istendiğinde ya da bir değişiklik yapılacağı zaman, yeni bir branch açılır ve bütün değişiklikler bu branch üzerinde yapıldıktan sonra master branch ile birleştirilir (bkz: merge).
+Projeye  ASD yeni bir özellik eklenmek istendiğinde ya da bir değişiklik yapılacağı zaman, yeni bir branch açılır ve bütün değişiklikler bu branch üzerinde yapıldıktan sonra master branch ile birleştirilir (bkz: merge).
 
 ### Fork
 
